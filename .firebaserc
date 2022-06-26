@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "maiphong-todoapp",
+    "todo": "maiphong-todoapp"
+  },
+  "targets": {}
+}
