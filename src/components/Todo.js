@@ -7,10 +7,10 @@ import Filter from './Filter';
 
 /* カスタムフック */
 // import useStorage from '../hooks/storage';
-// import useFbStorage from '../hooks/fbStorage';
+import useFbStorage from '../hooks/fbStorage';
 
 /* ライブラリ */
-// import {getKey} from "../lib/util";
+import {getKey} from "../lib/util";
 
 function Todo() {
   // const [items, putItems, clearItems] = useStorage();
